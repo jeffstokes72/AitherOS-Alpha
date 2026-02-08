@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/aitheros-logo.jpg" alt="AitherOS" width="400" />
+<img src="assets/aitheros-logo.jpg" alt="AitherOS" width="200" />
 
 # AitherOS
 
@@ -9,7 +9,7 @@
 118 microservices · 16 specialist agents · Six-pillar cognitive architecture
 Pain-driven recovery · Self-improving feedback loops · Running on real hardware
 
-[![Status](https://img.shields.io/badge/status-alpha-blueviolet?style=flat-square)](https://aitheros.ai)
+[![Status](https://img.shields.io/badge/status-alpha-blueviolet?style=flat-square)](https://aitherium.com/demo)
 [![Built By](https://img.shields.io/badge/built%20by-one%20person-cyan?style=flat-square)](#)
 [![Services](https://img.shields.io/badge/services-118-blue?style=flat-square)](#architecture)
 [![Agents](https://img.shields.io/badge/agents-16-purple?style=flat-square)](#agents)
@@ -166,7 +166,7 @@ This repo will be the home of the public alpha. Here's how to follow along:
 
 - ⭐ **Star** this repo to bookmark it
 - 👁️ **Watch** for release notifications
-- 🌐 Visit [aitheros.ai](https://aitheros.ai) for the demo page
+- 🌐 Visit [aitherium.com/demo](https://aitherium.com/demo) for the demo page
 
 ---
 

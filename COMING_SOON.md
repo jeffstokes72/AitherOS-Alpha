@@ -59,7 +59,7 @@ We're not giving dates — we're giving milestones. When each milestone is met, 
 
 1. **⭐ Star** this repository
 2. **👁️ Watch** → Select "Releases only" for minimal noise
-3. **🌐 Visit** [aitheros.ai](https://aitheros.ai)
+3. **🌐 Visit** [aitherium.com/demo](https://aitherium.com/demo)
 
 ---
 

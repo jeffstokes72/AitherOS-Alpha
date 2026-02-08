@@ -4,7 +4,7 @@
 
 AitherOS is currently in pre-alpha. If you discover a security vulnerability, please **do not** open a public issue.
 
-Instead, email: **security@aitheros.ai**
+Instead, email: **security@aitherium.com**
 
 We take security seriously and will respond within 48 hours.
 
