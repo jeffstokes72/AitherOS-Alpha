@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/aitheros-logo.png" alt="AitherOS" width="200" />
+<img src="assets/aitheros-logo.jpg" alt="AitherOS" width="400" />
 
 # AitherOS
 
