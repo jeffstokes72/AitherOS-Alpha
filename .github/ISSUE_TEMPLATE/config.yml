@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "💬 Discussions & Questions"
+    url: https://github.com/Aitherium/aitheros-alpha/discussions
+    about: "Ask questions, share ideas, or start a conversation about AitherOS."
+  - name: "📖 Documentation"
+    url: https://github.com/Aitherium/aitheros-alpha/tree/main/docs
+    about: "Check the docs before filing — your answer might already be there."
+  - name: "🗺️ Roadmap"
+    url: https://github.com/Aitherium/aitheros-alpha/blob/main/ROADMAP.md
+    about: "See what's planned and what's in progress."
